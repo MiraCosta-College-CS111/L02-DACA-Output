@@ -11,6 +11,14 @@
 			"installMaven": "false",
 			"installGradle": "true"
 		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"rajkundu.junit-jar-downloader",
+				"vscjava.vscode-java-test"
+			]
+		}
 	}
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
