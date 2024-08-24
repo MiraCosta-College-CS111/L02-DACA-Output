@@ -21,16 +21,16 @@ One of the interns on the team just got the template back to you (see code on th
 
 **Lab ToDo:**
 
-- Complete program documentation at the top (lines 1-4) [this is how the project manager will know when and who completed the prototype]
-- Create appropriate variables, in the appropriate section of the `main` method, to store data from EAC [this is how the backend team will know what kind of data and names to use for the database that will store over 700,000 DACA recipients information]. You can fill in the data with one of your partners or some sample data.
-- Substitute ██ parts with data from variables you created [this will eventually be upgraded to pull from a database and store the data into the variables you created, so this flexibility is key for scaling up]
-- Ensure you are following all coding convention/style and documentation practices
+1. Complete program documentation at the top (lines 1-4) [this is how the project manager will know when and who completed the prototype]
+2. Create appropriate variables, in the appropriate section of the `main` method, to store data from EAC [this is how the backend team will know what kind of data and names to use for the database that will store over 700,000 DACA recipients information]. You can fill in the data with one of your partners or some sample data.
+3. Substitute ██ parts with data from variables you created [this will eventually be upgraded to pull from a database and store the data into the variables you created, so this flexibility is key for scaling up]
+4. Ensure you are following all coding convention/style and documentation practices
 
-**Once you have completed the lab, submit using the button in the top right-hand corner.**
+**Once you have completed the lab, commit your changes and push your repository to turn in your work. There are <ins>no tests</ins> to run for this lab.**
 
 Done with the lab above? Only then can you attempt the....
 
 **!!!!!Hacker Challenge!!!!!**
 
 - Close off the right side of the card (note this will depend on the values you have for your variables, that's ok!)
-- Upgrade ASCIII art and/or look of EAC (checkout Unicode webpage link above)
+- Upgrade ASCII art and/or look of EAC (checkout Unicode webpage link above)
